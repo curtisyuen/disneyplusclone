@@ -1,4 +1,3 @@
-import React from "react";
 import disney from ".././assets/images/disney.png";
 import marvel from ".././assets/images/marvel.png";
 import nationalIG from ".././assets/images/nationalG.png";

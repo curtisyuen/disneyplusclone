@@ -1,4 +1,3 @@
-import React from "react";
 import GenresList from "../constant/GenresList";
 import MovieList from "./MovieList";
 

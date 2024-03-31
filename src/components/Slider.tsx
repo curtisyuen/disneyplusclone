@@ -1,4 +1,4 @@
-import React, { Ref, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import GlobalApi from "../services/GlobalApi";
 import { HiChevronLeft, HiChevronRight } from "react-icons/hi2";
 

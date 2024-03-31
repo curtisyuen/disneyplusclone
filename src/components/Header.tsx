@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import logo from "./../assets/images/disneyPlusLogo.png";
 import avator from "./../assets/images/Carl_Fredricksen.jpg";
 import {
